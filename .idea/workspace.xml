@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TestSmack:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5900f33c-e09d-47f0-9017-fbbd078c34b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../maven/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dfVxjNXzwKXF7YsnjNl3eKmSAs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/openfire/Openfire-4.5.2" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="upkeep51" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RegisterLog">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="openfire.A" />
+      <module name="TestSmack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="openfire.Entrance" />
+      <module name="TestSmack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="openfire.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultithreadingIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="upkeep51.MultithreadingIO" />
+      <module name="TestSmack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="upkeep51.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Register" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="upkeep51.Register" />
+      <module name="TestSmack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="upkeep51.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegisterLog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="upkeep51.RegisterLog" />
+      <module name="TestSmack" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="upkeep51.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RegisterLog" />
+        <item itemvalue="Application.MultithreadingIO" />
+        <item itemvalue="Application.Register" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.Entrance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5900f33c-e09d-47f0-9017-fbbd078c34b2" name="Default Changelist" comment="" />
+      <created>1592816382625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592816382625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="95" key="#Project_Structure" timestamp="1599298467210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="95" key="#Project_Structure/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599298467210" />
+    <state x="534" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599299971199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="534" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599299971199" />
+    <state x="873" y="252" key="#com.intellij.ide.util.MemberChooser" timestamp="1600307687267">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="873" y="252" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600307687267" />
+    <state x="873" y="252" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594285851161" />
+    <state x="810" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1599373751238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="310" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599373751238" />
+    <state x="745" y="143" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593673662750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="745" y="143" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593673662750" />
+    <state x="810" y="275" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1599361264601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="275" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599361264601" />
+    <state x="847" y="287" key="FileChooserDialogImpl" timestamp="1599351019069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="847" y="287" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599351019069" />
+    <state x="847" y="287" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593314317127" />
+    <state width="1340" height="218" key="GridCell.Tab.0.bottom" timestamp="1600501857577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600501857577" />
+    <state width="1340" height="197" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597218991810" />
+    <state width="1340" height="210" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594999943907" />
+    <state width="1340" height="218" key="GridCell.Tab.0.center" timestamp="1600501857576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600501857576" />
+    <state width="1340" height="197" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597218991810" />
+    <state width="1340" height="210" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594999943907" />
+    <state width="1340" height="218" key="GridCell.Tab.0.left" timestamp="1600501857576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600501857576" />
+    <state width="1340" height="197" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597218991809" />
+    <state width="1340" height="210" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594999943907" />
+    <state width="1340" height="218" key="GridCell.Tab.0.right" timestamp="1600501857576">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600501857576" />
+    <state width="1340" height="197" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597218991810" />
+    <state width="1340" height="210" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1594999943907" />
+    <state x="598" y="202" key="Maven.ArtifactSearchDialog" timestamp="1593223513567">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="202" key="Maven.ArtifactSearchDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593223513567" />
+    <state x="569" y="189" key="SettingsEditor" timestamp="1600843009564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="189" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600843009564" />
+    <state x="2489" y="189" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595561037470" />
+    <state x="569" y="189" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595311452597" />
+    <state x="918" y="473" key="classpath-attribute-editor" timestamp="1599292563717">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="918" y="473" key="classpath-attribute-editor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599292563717" />
+    <state x="782" y="120" width="596" height="804" key="find.popup" timestamp="1599721335049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="120" width="596" height="804" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599721335049" />
+    <state x="442" y="207" key="new project wizard" timestamp="1593318308755">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="442" y="207" key="new project wizard/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593318308755" />
+    <state x="724" y="256" key="run.anything.popup" timestamp="1599721592262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="724" y="256" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599721592262" />
+    <state x="724" y="256" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595311426535" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/openfire/ComSmackClient.java</url>
+          <line>426</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
