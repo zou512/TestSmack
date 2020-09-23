@@ -5,8 +5,28 @@
       <artifact name="TestSmack:jar" />
     </artifacts-to-build>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5900f33c-e09d-47f0-9017-fbbd078c34b2" name="Default Changelist" comment="" />
+    <list default="true" id="5900f33c-e09d-47f0-9017-fbbd078c34b2" name="Default Changelist" comment="upkeep文件夹下面添加说明类Explain">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +38,16 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -32,6 +62,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1dfVxjNXzwKXF7YsnjNl3eKmSAs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -131,9 +162,36 @@
       <option name="presentableId" value="Default" />
       <updated>1592816382625</updated>
     </task>
+    <task id="LOCAL-00001" summary="upkeep文件夹下面添加说明类Explain">
+      <created>1600848066100</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600848066100</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upkeep文件夹下面添加说明类Explain" />
+    <option name="LAST_COMMIT_MESSAGE" value="upkeep文件夹下面添加说明类Explain" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="890" y="383" key="#Notifications" timestamp="1600848276753">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="890" y="383" key="#Notifications/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600848276753" />
     <state x="560" y="95" key="#Project_Structure" timestamp="1599298467210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -159,6 +217,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="810" y="275" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599361264601" />
+    <state x="232" y="87" key="DiffContextDialog" timestamp="1600849616876">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="232" y="87" key="DiffContextDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600849616876" />
     <state x="847" y="287" key="FileChooserDialogImpl" timestamp="1599351019069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -192,12 +254,16 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="598" y="202" key="Maven.ArtifactSearchDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1593223513567" />
-    <state x="569" y="189" key="SettingsEditor" timestamp="1600843009564">
+    <state x="569" y="189" key="SettingsEditor" timestamp="1600849470280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="569" y="189" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600843009564" />
+    <state x="569" y="189" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600849470280" />
     <state x="2489" y="189" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595561037470" />
     <state x="569" y="189" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595311452597" />
+    <state x="600" y="254" key="Vcs.Push.Dialog.v2" timestamp="1600850738284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600850738284" />
     <state x="918" y="473" key="classpath-attribute-editor" timestamp="1599292563717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -206,6 +272,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="120" width="596" height="804" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599721335049" />
+    <state x="713" y="389" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600848761282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="389" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600848761282" />
+    <state x="754" y="360" key="git4idea.ui.GitTagDialog" timestamp="1600848410761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="360" key="git4idea.ui.GitTagDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600848410761" />
     <state x="442" y="207" key="new project wizard" timestamp="1593318308755">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
