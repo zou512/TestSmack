@@ -24,9 +24,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5900f33c-e09d-47f0-9017-fbbd078c34b2" name="Default Changelist" comment="upkeep文件夹下面添加说明类Explain">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5900f33c-e09d-47f0-9017-fbbd078c34b2" name="Default Changelist" comment="upkeep文件夹下面添加说明类Explain" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +79,7 @@
       <recent name="upkeep51" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RegisterLog">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="openfire.A" />
       <module name="TestSmack" />
@@ -89,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="openfire.Entrance" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="company.Main" />
       <module name="TestSmack" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="openfire.*" />
+          <option name="PATTERN" value="company.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.RegisterLog" />
         <item itemvalue="Application.MultithreadingIO" />
         <item itemvalue="Application.Register" />
         <item itemvalue="Application.A" />
-        <item itemvalue="Application.Entrance" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600848066100</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="upkeep文件夹下面添加说明类Explain">
+      <created>1600851107497</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600851107498</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +189,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="upkeep文件夹下面明类Explain更新&#10;upkeep文件夹下面更加详尽的说明" />
     <MESSAGE value="upkeep文件夹下面添加说明类Explain" />
     <option name="LAST_COMMIT_MESSAGE" value="upkeep文件夹下面添加说明类Explain" />
   </component>
@@ -260,10 +266,10 @@
     <state x="569" y="189" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600849470280" />
     <state x="2489" y="189" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1595561037470" />
     <state x="569" y="189" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1595311452597" />
-    <state x="600" y="254" key="Vcs.Push.Dialog.v2" timestamp="1600850738284">
+    <state x="600" y="254" key="Vcs.Push.Dialog.v2" timestamp="1600850831176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="600" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600850738284" />
+    <state x="600" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600850831176" />
     <state x="918" y="473" key="classpath-attribute-editor" timestamp="1599292563717">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -272,6 +278,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="782" y="120" width="596" height="804" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599721335049" />
+    <state x="742" y="308" key="git4idea.merge.GitMergeDialog" timestamp="1600850869064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="308" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1600850869064" />
     <state x="713" y="389" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600848761282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
